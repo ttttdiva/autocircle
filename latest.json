@@ -1,14 +1,14 @@
 {
   "desktop": {
     "version": "0.1.0",
-    "url": "",
-    "notes": "",
+    "url": "https://github.com/ttttdiva/autocircle/releases/download/desktop-v0.1.0/CaicoDesktop.exe",
+    "notes": "初回リリース: 自動更新機能を搭載",
     "date": "2026-04-04"
   },
   "mobile": {
     "version": "1.0.0",
-    "url": "",
-    "notes": "",
+    "url": "https://github.com/ttttdiva/autocircle/releases/download/mobile-v1.0.0/app-release.apk",
+    "notes": "初回リリース: 自動更新機能を搭載",
     "date": "2026-04-04"
   }
 }
