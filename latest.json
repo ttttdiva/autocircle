@@ -1,14 +1,14 @@
 {
-  "desktop": {
-    "version": "0.1.1",
-    "url": "https://github.com/ttttdiva/autocircle/releases/download/desktop-v0.1.1/EventTrailStudio.exe",
-    "notes": "優先度行表示をメーター方式に変更",
-    "date": "2026-05-25"
-  },
-  "mobile": {
-    "version": "1.4.31",
-    "url": "https://github.com/ttttdiva/autocircle/releases/download/mobile-v1.4.31/EventTrailGo.apk",
-    "notes": "v1.4.31 リリース",
-    "date": "2026-05-25"
-  }
+    "desktop":  {
+                    "version":  "0.1.1",
+                    "url":  "https://github.com/ttttdiva/autocircle/releases/download/desktop-v0.1.1/EventTrailStudio.exe",
+                    "notes":  "優先度行背景をライトテーマ対応の案Bグラデーションに修正",
+                    "date":  "2026-05-25"
+                },
+    "mobile":  {
+                   "version":  "1.4.31",
+                   "url":  "https://github.com/ttttdiva/autocircle/releases/download/mobile-v1.4.31/EventTrailGo.apk",
+                   "notes":  "v1.4.31 リリース",
+                   "date":  "2026-05-25"
+               }
 }
