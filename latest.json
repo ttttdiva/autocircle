@@ -1,14 +1,14 @@
 {
-  "desktop": {
-    "version": "0.1.1",
-    "url": "https://github.com/ttttdiva/autocircle/releases/download/desktop-v0.1.1/EventTrailStudio.exe",
-    "notes": "v0.1.1 手動イベント画像保持修正",
-    "date": "2026-05-17"
-  },
-  "mobile": {
-    "version": "1.4.26",
-    "url": "https://github.com/ttttdiva/autocircle/releases/download/mobile-v1.4.26/EventTrailGo.apk",
-    "notes": "v1.4.26 リリース",
-    "date": "2026-05-24"
-  }
+    "desktop":  {
+                    "version":  "0.1.1",
+                    "url":  "https://github.com/ttttdiva/autocircle/releases/download/desktop-v0.1.1/EventTrailStudio.exe",
+                    "notes":  "v0.1.1 モバイル受信既存イベント更新修正",
+                    "date":  "2026-05-24"
+                },
+    "mobile":  {
+                   "version":  "1.4.26",
+                   "url":  "https://github.com/ttttdiva/autocircle/releases/download/mobile-v1.4.26/EventTrailGo.apk",
+                   "notes":  "v1.4.26 リリース",
+                   "date":  "2026-05-24"
+               }
 }
