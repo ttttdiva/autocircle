@@ -1,14 +1,14 @@
 {
-  "desktop": {
-    "version": "0.1.1",
-    "url": "https://github.com/ttttdiva/autocircle/releases/download/desktop-v0.1.1/EventTrailStudio.exe",
-    "notes": "v0.1.1 イベント画像アセットmanifest対応",
-    "date": "2026-05-25"
-  },
-  "mobile": {
-    "version": "1.4.34",
-    "url": "https://github.com/ttttdiva/autocircle/releases/download/mobile-v1.4.34/EventTrailGo.apk",
-    "notes": "v1.4.34 リリース",
-    "date": "2026-05-25"
-  }
+    "desktop":  {
+                    "version":  "0.1.1",
+                    "url":  "https://github.com/ttttdiva/autocircle/releases/download/desktop-v0.1.1/EventTrailStudio.exe",
+                    "notes":  "v0.1.1 優先度カラー設定を設定タブへ移動",
+                    "date":  "2026-05-25"
+                },
+    "mobile":  {
+                   "version":  "1.4.34",
+                   "url":  "https://github.com/ttttdiva/autocircle/releases/download/mobile-v1.4.34/EventTrailGo.apk",
+                   "notes":  "v1.4.34 リリース",
+                   "date":  "2026-05-25"
+               }
 }
