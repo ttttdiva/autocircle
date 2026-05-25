@@ -2,7 +2,7 @@
     "desktop":  {
                     "version":  "0.1.1",
                     "url":  "https://github.com/ttttdiva/autocircle/releases/download/desktop-v0.1.1/EventTrailStudio.exe",
-                    "notes":  "優先度行背景を行面中心のライトテーマ対応表示に修正",
+                    "notes":  "v0.1.1 イベント画像アセットmanifest対応",
                     "date":  "2026-05-25"
                 },
     "mobile":  {
