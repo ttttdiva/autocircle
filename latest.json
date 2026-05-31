@@ -1,14 +1,14 @@
 {
-  "desktop": {
-    "version": "0.1.1",
-    "url": "https://github.com/ttttdiva/autocircle/releases/download/desktop-v0.1.1/EventTrailStudio.exe",
-    "notes": "v0.1.1 マップピンをセル矩形ハイライトに修正",
-    "date": "2026-05-31"
-  },
-  "mobile": {
-    "version": "1.4.46",
-    "url": "https://github.com/ttttdiva/autocircle/releases/download/mobile-v1.4.46/EventTrailGo.apk",
-    "notes": "v1.4.46 リリース",
-    "date": "2026-05-31"
-  }
+    "desktop":  {
+                    "version":  "0.1.1",
+                    "url":  "https://github.com/ttttdiva/autocircle/releases/download/desktop-v0.1.1/EventTrailStudio.exe",
+                    "notes":  "v0.1.1 マップピン自動配置をevent.json基準に更新",
+                    "date":  "2026-05-31"
+                },
+    "mobile":  {
+                   "version":  "1.4.46",
+                   "url":  "https://github.com/ttttdiva/autocircle/releases/download/mobile-v1.4.46/EventTrailGo.apk",
+                   "notes":  "v1.4.46 リリース",
+                   "date":  "2026-05-31"
+               }
 }
