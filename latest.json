@@ -1,9 +1,9 @@
 {
     "desktop":  {
-                    "version":  "0.1.1",
-                    "url":  "https://github.com/ttttdiva/autocircle/releases/download/desktop-v0.1.1/EventTrailStudio.exe",
-                    "notes":  "v0.1.1 マップピン自動配置をevent.json基準に更新",
-                    "date":  "2026-05-31"
+                    "version":  "0.1.2",
+                    "url":  "https://github.com/ttttdiva/autocircle/releases/download/desktop-v0.1.2/EventTrailStudio.exe",
+                    "notes":  "v0.1.2 Gemini CLIをAntigravity CLIへ置換",
+                    "date":  "2026-06-28"
                 },
     "mobile":  {
                    "version":  "1.4.46",
