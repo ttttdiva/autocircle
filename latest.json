@@ -2,8 +2,8 @@
     "desktop":  {
                     "version":  "0.1.2",
                     "url":  "https://github.com/ttttdiva/autocircle/releases/download/desktop-v0.1.2/EventTrailStudio.exe",
-                    "notes":  "v0.1.2 Gemini CLIをAntigravity CLIへ置換",
-                    "date":  "2026-06-28"
+                    "notes":  "v0.1.2 twscrape停止時のTwitter抽出待機を回避",
+                    "date":  "2026-07-05"
                 },
     "mobile":  {
                    "version":  "1.4.46",
