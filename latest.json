@@ -1,14 +1,14 @@
 {
-    "desktop":  {
-                    "version":  "0.1.2",
-                    "url":  "https://github.com/ttttdiva/autocircle/releases/download/desktop-v0.1.2/EventTrailStudio.exe",
-                    "notes":  "v0.1.2 twscrape停止時のTwitter抽出待機を回避",
-                    "date":  "2026-07-05"
-                },
-    "mobile":  {
-                   "version":  "1.4.46",
-                   "url":  "https://github.com/ttttdiva/autocircle/releases/download/mobile-v1.4.46/EventTrailGo.apk",
-                   "notes":  "v1.4.46 リリース",
-                   "date":  "2026-05-31"
-               }
+  "desktop": {
+    "version": "0.1.2",
+    "url": "https://github.com/ttttdiva/autocircle/releases/download/desktop-v0.1.2/EventTrailStudio.exe",
+    "notes": "v0.1.2 twscrape停止時のTwitter抽出待機を回避",
+    "date": "2026-07-05"
+  },
+  "mobile": {
+    "version": "1.4.47",
+    "url": "https://github.com/ttttdiva/autocircle/releases/download/mobile-v1.4.47/EventTrailGo.apk",
+    "notes": "v1.4.47 リリース",
+    "date": "2026-07-11"
+  }
 }
