@@ -1,8 +1,8 @@
 {
     "desktop":  {
-                    "version":  "0.1.4",
-                    "url":  "https://github.com/ttttdiva/autocircle/releases/download/desktop-v0.1.4/EventTrailStudio.exe",
-                    "notes":  "v0.1.4 サイト解析とXクロール失敗表示を改善",
+                    "version":  "0.1.5",
+                    "url":  "https://github.com/ttttdiva/autocircle/releases/download/desktop-v0.1.5/EventTrailStudio.exe",
+                    "notes":  "v0.1.5 Twitterお品書き抽出の再処理接続と保存競合を修正",
                     "date":  "2026-07-19"
                 },
     "mobile":  {
